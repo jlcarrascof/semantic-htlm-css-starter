@@ -16,4 +16,5 @@ body {
 
 .presentation {
     display: flex;
+    align-items: center;
 }
