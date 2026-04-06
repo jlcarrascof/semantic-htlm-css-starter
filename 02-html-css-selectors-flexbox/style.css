@@ -19,7 +19,7 @@ body {
 .presentation {
     display: flex;
     align-items: center;
-    margin: 10%;
+    margin: 10% 15%;
     justify-content: space-between;
 }
 
