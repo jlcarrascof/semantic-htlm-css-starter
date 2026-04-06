@@ -28,3 +28,7 @@ body {
 .presentantion__content__title {
     font-size: 36px;
 }
+
+.presentation__content__text {
+    font-size: 24px;
+}
