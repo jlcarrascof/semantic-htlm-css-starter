@@ -43,5 +43,7 @@ body {
 }
 
 .presentation__links__buttons {
-    
+    width: 280px;
+    background-color: #22D4FD;
+    text-align: center;   
 }
