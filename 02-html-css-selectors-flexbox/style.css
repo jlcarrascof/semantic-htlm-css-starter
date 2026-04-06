@@ -25,6 +25,9 @@ body {
 
 .presentation__content {
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .presentantion__content__title {
